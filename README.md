@@ -32,7 +32,8 @@
 
 ## 📷 Screenshots
 
-*(Add a few screenshots here of the UI, before/after examples if available.)*
+![image](https://github.com/user-attachments/assets/97e1f600-d5ad-44c1-9485-c46fcb02ef99)
+
 
 ---
 
