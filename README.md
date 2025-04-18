@@ -54,5 +54,5 @@ You can use, modify, and distribute it freely.
 
 ## 📬 Contact
 
-Created with ❤️ by [Your Name]  
-Feel free to reach out via GitHub or [your-email@example.com]
+Created with ❤️ by [Soumyadip Paul]  
+Feel free to reach out via GitHub or [ironendgame2019@gmail.com]
