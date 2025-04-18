@@ -1,7 +1,7 @@
 # 🧽 Gamma Logo Remover
 
 [![Website](https://img.shields.io/badge/Visit-Website-green)](https://gammalogoremover.ct.ws/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)](https://www.buymeacoffee.com/soumyadippaul)
 
 **Gamma Logo Remover** is a free web tool that helps you remove logos from `.pptx` files created using **Gamma**. No installation or signup required. Just upload your file, and get a clean version in seconds.
 
